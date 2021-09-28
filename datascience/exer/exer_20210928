@@ -1,0 +1,94 @@
+"""
+functions vs method
+"""
+
+def my_function(x):
+    return x + 1
+y=3
+my_function(y)
+
+#method :클래스 내에 정의된 함수
+
+class my_class:
+    def my_method(self):
+        return x + 1
+
+    
+cls = my_class()
+print(cls.my_method())
+
+"""
+functions vs method
+"""
+
+def my_function(x):
+    return x + 1
+y=3
+my_function(y)
+
+#method :클래스 내에 정의된 함수
+
+class my_class:
+    def my_method(self):
+        return x + 1
+
+    
+cls = my_class()
+print(cls.my_method())
+
+"""
+functions vs method
+"""
+
+def my_function(x):
+    return x + 1
+y=3
+my_function(y)
+
+#method :클래스 내에 정의된 함수
+
+class my_class:
+    def my_method(self):
+        return x + 1
+
+    
+cls = my_class()
+print(cls.my_method())
+
+"""
+functions vs method
+"""
+
+def my_function(x):
+    return x + 1
+y=3
+my_function(y)
+
+#method :클래스 내에 정의된 함수
+
+class my_class:
+    def my_method(self):
+        return x + 1
+
+    
+cls = my_class()
+print(cls.my_method())
+
+"""
+functions vs method
+"""
+
+def my_function(x):
+    return x + 1
+y=3
+my_function(y)
+
+#method :클래스 내에 정의된 함수
+
+class my_class:
+    def my_method(self):
+        return x + 1
+
+    
+cls = my_class()
+print(cls.my_method())
